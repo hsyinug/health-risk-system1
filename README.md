@@ -66,6 +66,7 @@
 3. **AI 協作流程**: 本專案使用 AI 作為協作開發夥伴，詳實紀錄了從需求分析、決策樹演算法設計到雲端部屬的除錯對話歷史。
 
 [[查看完整 AI 開發與除錯紀錄連結](https://gemini.google.com/share/7abb71f3bd2e)] 
+[[查看完整 AI 開發與除錯紀錄連結](https://gemini.google.com/share/bac0b17c1e3f)] 
 
 ---
 
