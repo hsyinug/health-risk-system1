@@ -1,4 +1,5 @@
-## 智慧健康日誌與風險評估系統
+## 智慧健康日誌與風險評估系統  
+
 
 
 本系統為個人健康數據管理工具，透過記錄睡眠、步數與心情，利用**決策樹邏輯**進行風險分類，並具備即時資料互動與視覺化顯示功能。
@@ -66,9 +67,11 @@
 2. **環境部署優化**: 透過「Clear build cache」清除舊有殘留依賴，解決 `MODULE_NOT_FOUND` 錯誤。
 3. **AI 協作流程**: 本專案使用 AI 作為協作開發夥伴，詳實紀錄了從需求分析、決策樹演算法設計到雲端部屬的除錯對話歷史。
 
-[[查看完整 AI 開發與除錯紀錄連結](https://gemini.google.com/share/7abb71f3bd2e)] 
-[[查看完整 AI 開發與除錯紀錄連結](https://gemini.google.com/share/bac0b17c1e3f)] 
-[[查看完整 AI 開發與除錯紀錄連結](https://chatgpt.com/share/6a339c6d-2ac4-83ee-9415-ea5637bccea5)] 
+[[Gemini1](https://gemini.google.com/share/7abb71f3bd2e)] 
+
+[[Gemini2](https://gemini.google.com/share/bac0b17c1e3f)] 
+
+[[ChatGPT](https://chatgpt.com/share/6a339c6d-2ac4-83ee-9415-ea5637bccea5)] 
 
 ---
 
