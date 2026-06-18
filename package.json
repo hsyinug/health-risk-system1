@@ -1,21 +1,19 @@
 {
   "name": "health-risk-system",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Health Risk Assessment System",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "sqlite3": "5.1.7"
   },
-  "devDependencies": {
-    "nodemon": "^3.1.14"
-  }
+  "author": "",
+  "license": "ISC"
 }
